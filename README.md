@@ -1,1 +1,1 @@
-[!pms](./public/pms.png)
+![pms](./public/pms.png)
