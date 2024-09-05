@@ -1,0 +1,19 @@
+#sidebar{
+    width: 20%;
+}
+#cardsCol{
+    width: 37%;
+    background-color: #f3f6ff;
+    border-radius: 28px;
+}
+#Stats{
+    width: 43%;
+}
+
+#sidebarComp{
+    height: 100%;
+}
+#sidebarTitle{
+    color: #222138;
+    padding-top: 12px;
+}
